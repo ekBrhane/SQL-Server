@@ -1,1 +1,1 @@
-# This material explains different SQL Server Concepts
+# SQL Server Concepts
